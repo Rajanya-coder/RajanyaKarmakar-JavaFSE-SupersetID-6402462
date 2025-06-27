@@ -1,0 +1,2 @@
+Linear Search Result: [103, Watch, Accessories]
+Binary Search Result: [103, Watch, Accessories]
