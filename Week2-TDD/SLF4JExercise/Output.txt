@@ -1,0 +1,2 @@
+21:49:51.478 [main] ERROR org.example.LoggingExample - This is an error message
+21:49:51.486 [main] WARN org.example.LoggingExample - This is a warning message
